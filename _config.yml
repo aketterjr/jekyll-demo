@@ -25,3 +25,8 @@ plugins:
   - jekyll-github-metadata
 
 repository: aketterjr/aketterjr.github.io.git
+
+sass:
+  load_paths:
+    - _sass
+    - vendor/assets/stylesheets
